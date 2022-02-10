@@ -1,0 +1,10 @@
+[376670.993695] usb 2-3: Product: FT232R USB UART
+[376670.993696] usb 2-3: Manufacturer: FTDI
+[376670.993697] usb 2-3: SerialNumber: A9UX9337
+[376671.053330] usbcore: registered new interface driver usbserial_generic
+[376671.053337] usbserial: USB Serial support registered for generic
+[376671.054980] usbcore: registered new interface driver ftdi_sio
+[376671.054989] usbserial: USB Serial support registered for FTDI USB Serial Device
+[376671.055093] ftdi_sio 2-3:1.0: FTDI USB Serial Device converter detected
+[376671.055123] usb 2-3: Detected FT232RL
+[376671.057453] usb 2-3: FTDI USB Serial Device converter now attached to ttyUSB0
